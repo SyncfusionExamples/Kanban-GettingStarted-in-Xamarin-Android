@@ -98,7 +98,7 @@
   <ItemGroup />
   <ItemGroup>
     <PackageReference Include="Syncfusion.Xamarin.SfKanban.Android">
-      <Version>18.1.0.42</Version>
+      <Version>*</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.3" />
     <PackageReference Include="Xamarin.Android.Support.Core.Utils" Version="28.0.0.3" />
