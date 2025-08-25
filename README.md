@@ -68,7 +68,7 @@ This project used the following Syncfusion control(s):
 
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/)
 
-Refer to the following link for more details - [System Requirements](https://help.syncfusion.com/xamarin/system-requirements)
+Refer to the following link for more details - [System Requirements](https://help.syncfusion.com/xamarin-android/system-requirements)
 
 ## How to run the sample
 
@@ -88,7 +88,7 @@ Refer to the following link for more details - [System Requirements](https://hel
 			MainPage = new App1.MainPage();
 		}
 		
-	Refer to this [link](https://help.syncfusion.com/xamarin/licensing/overview) for more details.
+	Refer to this [link](https://help.syncfusion.com/xamarin-android/licensing/overview) for more details.
 	
 3. Clean and build the application.
 
